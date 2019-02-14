@@ -16,3 +16,4 @@ npm -v
 
 npm install -g create-react-app
 npx create-react-app hello-world
+npx create-react-app flux-example
