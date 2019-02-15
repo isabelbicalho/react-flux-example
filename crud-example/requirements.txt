@@ -1,0 +1,4 @@
+bumpr==0.3.7
+Flask==1.0.2
+Flask-RESTful==0.3.7
+SQLAlchemy==1.2.18

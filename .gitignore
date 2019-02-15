@@ -1,5 +1,6 @@
 hello-world/node_modules/
 flux-example/node_modules/
 crud-example/node_modules/
+crud-example/venv/
 npm-debug.log
 
